@@ -30,7 +30,7 @@ class ItemRepositoryTest {
     @Test
     void save() {
         //given
-        Item item = new Item("itemA", 10000, 10);
+        Item item = new Item("itemA", 100200, 10);
 
         //when
         Item savedItem = itemRepository.save(item);
