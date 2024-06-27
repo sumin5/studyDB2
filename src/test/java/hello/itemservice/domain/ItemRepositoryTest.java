@@ -26,7 +26,9 @@ class ItemRepositoryTest {
     ItemRepository itemRepository;
 
    /* @Autowired
-    PlatformTransactionManager transactionManager;
+    PlatformTransactio
+
+    `nManager transactionManager;
     TransactionStatus status;
 
     @BeforeEach
